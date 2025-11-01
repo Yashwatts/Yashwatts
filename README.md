@@ -144,10 +144,10 @@ interests:
 ```javascript
 const currentFocus = {
     learning: ["Machine Learning", "Deep Learning", "Advanced DSA"],
-    building: ["Full Stack Web Applications", "Mobile Apps with React Native"],
+    building: ["Full Stack Web Applications", "Mobile Apps", "AI/ML Models"],
     exploring: ["AI/ML Projects", "Cloud Computing", "System Design"],
-    improving: ["Problem Solving", "Code Optimization", "Scalable Architecture"],
-    freelancing: ["Web Development", "Mobile App Development", "API Integration"]
+    improving: ["DSA", "Code Optimization", "Scalable Architecture"],
+    freelancing: ["Full Stack Development", "API Integration"]
 };
 
 console.log("Always learning, always growing! 🚀");
@@ -168,10 +168,8 @@ console.log("Always learning, always growing! 🚀");
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashwatts)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yashwatts)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yashwatts)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yashwatts.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yash@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwatts2005@gmail.com)
 
 ### 💼 Available for Freelance Projects!
 **Let's build something amazing together** 🚀
