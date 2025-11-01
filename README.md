@@ -2,7 +2,7 @@
   
 # 👋 Hi there, I'm Yash Watts! 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00C4FF&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%7C+Tech+Enthusiast;Building+Amazing+Digital+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00C4FF&center=true&vCenter=true&width=940&lines=Freelance+Full+Stack+Developer;AI%2FML+Learner;Building+Amazing+Digital+Experiences" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
@@ -15,19 +15,20 @@
 ```yaml
 name: Yash Watts
 located_in: India
-current_role: Software Developer
+current_role: Freelance Full Stack Developer
+expertise: Web Development | AI/ML | Cloud Computing
 education: Computer Science
 interests: 
   - Full Stack Development
+  - Artificial Intelligence & Machine Learning
   - Cloud Computing
-  - AI/ML
-  - Open Source
+  - Open Source Contribution
   - Problem Solving
 ```
 
-💡 Passionate about building scalable applications and learning new technologies  
+💡 Passionate freelance developer building scalable applications and learning AI/ML  
 🎯 Always eager to collaborate on innovative projects  
-🌱 Currently exploring advanced cloud architectures and modern web frameworks  
+🌱 Currently exploring advanced AI/ML algorithms and modern web frameworks  
 ⚡ Fun fact: I turn coffee into code!
 
 ---
@@ -76,6 +77,14 @@ interests:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🤖 AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -141,10 +150,11 @@ interests:
 
 ```javascript
 const currentFocus = {
-    learning: ["Advanced System Design", "Microservices Architecture", "AI/ML"],
-    building: ["Full Stack Web Applications", "Cloud Native Solutions"],
-    exploring: ["WebAssembly", "Edge Computing", "Blockchain"],
-    improving: ["DSA", "Design Patterns", "Code Quality"]
+    learning: ["Machine Learning Algorithms", "Deep Learning", "NLP"],
+    building: ["Full Stack Web Applications", "AI-Powered Solutions"],
+    exploring: ["Computer Vision", "Generative AI", "MLOps"],
+    improving: ["DSA", "System Design", "Code Quality"],
+    freelancing: ["Web Development", "API Integration", "Custom Solutions"]
 };
 
 console.log("Always learning, always growing! 🚀");
@@ -169,6 +179,9 @@ console.log("Always learning, always growing! 🚀");
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yashwatts)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yashwatts.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yash@example.com)
+
+### 💼 Available for Freelance Projects!
+**Let's build something amazing together** 🚀
 
 </div>
 
