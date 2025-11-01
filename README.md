@@ -190,8 +190,6 @@ console.log("Always learning, always growing! 🚀");
 ---
 
 <div align="center">
-  
-### 💖 Show some love by starring some repositories!
 
 **"Code is like humor. When you have to explain it, it's bad." – Cory House**
 
