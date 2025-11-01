@@ -14,14 +14,13 @@
 
 ```yaml
 name: Yash Watts
-located_in: India
+located_in: Punjab, India
 current_role: Freelance Full Stack Developer
-expertise: Web Development | AI/ML | Cloud Computing
+expertise: Web Development | AI/ML | Mobile App Development
 education: Computer Science
 interests: 
   - Full Stack Development
   - Artificial Intelligence & Machine Learning
-  - Mobile App Development
   - Open Source Contribution
   - Problem Solving
 ```
